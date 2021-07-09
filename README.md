@@ -8,4 +8,4 @@
  3. O teste de Levene investiga a hipótese de que diferentes distribuições possuem variâncias iguais.
  4. Por fim, considerando que as distribuições sejam Gaussianas e possuam variâncias iguais, é realizado o teste de Análise da Variância (Analysis of Variance, ANOVA) para investigar a hipótese que a média de diferentes distribuições são iguais.
 
- Os testes são conduzidos cpm algumas bibliotecas da linguagem de programação Python, e encontram-se disponíves tanto offile quanto online no arquivo [analysis](analysis.ipynb).
+ Os testes são conduzidos com algumas bibliotecas da linguagem de programação Python, e encontram-se disponíves tanto offile quanto online no arquivo [analysis](analysis.ipynb).
